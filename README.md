@@ -42,12 +42,33 @@ Bước 2: Tạo các bảng có tên: MonHoc, Lop, GV, PhongHoc, LichHoc theo c
 
 
 
-Bước 3: Thực hiện đặt các khóa chinh và các khóa ngoại liên kết để thu được sơ đồ liên kết: Screenshot 2025-04-15 164716
+Bước 3: Thực hiện đặt các khóa chinh và các khóa ngoại liên kết để thu được sơ đồ liên kết: 
 
-Bước 4: Copy dữ liệu từ nguồn TMS.tnut.edu.vn, patse vào Excel sau đó thực hiện dán các dữ liệu cần thiết vào các bảng ở mục edit bảng trong sql: Screenshot 2025-04-15 175315 Screenshot 2025-04-15 175230 Screenshot 2025-04-15 175310 Screenshot 2025-04-15 175259 Screenshot 2025-04-15 175248 Screenshot 2025-04-15 175238
 
-Bước 5: Truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra: Screenshot 2025-04-15 180027
+![image](https://github.com/user-attachments/assets/e46db395-8a35-48be-84ee-a207e1348557)
 
-Trả lời câu hỏi: trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy: Screenshot 2025-04-15 180331
+
+Bước 4: Copy dữ liệu từ nguồn TMS.tnut.edu.vn, patse vào Excel sau đó thực hiện dán các dữ liệu cần thiết vào các bảng ở mục edit bảng trong sql: 
+
+![image](https://github.com/user-attachments/assets/29dc7004-184d-405e-875b-47b7a08fc8ba)
+
+![image](https://github.com/user-attachments/assets/5f6bfa13-603d-4fe5-8f8a-1028b97a3e2d)
+
+![image](https://github.com/user-attachments/assets/44516cb6-d5f2-46d6-89df-36adf766d188)
+
+![image](https://github.com/user-attachments/assets/50b683e0-d21e-40dd-90c3-d16b762a0736)
+
+![image](https://github.com/user-attachments/assets/4723ebb3-578d-40be-be11-0de8fbb4cca2)
+
+![image](https://github.com/user-attachments/assets/3d55037c-f8d4-4c19-87d4-4f995cbcfcab)
+
+
+Bước 5: Truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra: 
+
+![image](https://github.com/user-attachments/assets/68c5e0be-9884-4882-99fc-95592a1a86be)
+
+Trả lời câu hỏi: trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy: 
+
+![image](https://github.com/user-attachments/assets/c6171bc1-5ce8-484f-9d22-084e9e8baa52)
 
 
